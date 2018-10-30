@@ -1,0 +1,477 @@
+1539934555171	geckodriver	INFO	geckodriver 0.21.0
+1539934555176	geckodriver	INFO	Listening on 127.0.0.1:59360
+1539934556191	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.NaOvc8JR6l7B"
+2018-10-19 15:35:57.298 plugin-container[1992:159222] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:35:57.438 plugin-container[1992:159222] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x775b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:35:57.495 plugin-container[1993:159260] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:35:57.573 plugin-container[1993:159260] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x716b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934557907	Marionette	INFO	Listening on port 59371
+1539934557952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539934557987	Marionette	DEBUG	[4294967297] Frame script loaded
+1539934557988	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-19 15:35:58.046 plugin-container[1994:159364] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:35:58.124 plugin-container[1994:159364] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x752b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934558310	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539934558398	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539934558662	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539934558673	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:35:58.704 plugin-container[1995:159409] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:35:58.790 plugin-container[1995:159409] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1a47, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934558993	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934564745	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934570010	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934575054	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=e85460fd069160cd4c81ab214d0a9db4
+1539934575161	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=e85460fd069160cd4c81ab214d0a9db4
+1539934575162	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=e85460fd069160cd4c81ab214d0a9db4
+1539934575265	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=e85460fd069160cd4c81ab214d0a9db4
+1539934575339	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=e85460fd069160cd4c81ab214d0a9db4
+1539934577673	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539934577676	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934577678	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934606390	geckodriver	INFO	geckodriver 0.21.0
+1539934606396	geckodriver	INFO	Listening on 127.0.0.1:59606
+1539934607410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.mZTYLOm6oeNF"
+2018-10-19 15:36:48.543 plugin-container[2004:160287] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8903, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:36:48.624 plugin-container[2004:160287] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7d6b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:36:48.805 plugin-container[2005:160315] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e03, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:36:48.885 plugin-container[2005:160315] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e9b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934609168	Marionette	INFO	Listening on port 59617
+1539934609266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539934609301	Marionette	DEBUG	[4294967297] Frame script loaded
+1539934609302	Marionette	DEBUG	[4294967297] Frame script registered
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+1539934609615	Marionette	INFO	Stopped listening on port 59371
+2018-10-19 15:36:49.641 plugin-container[2006:160425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934609691	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+2018-10-19 15:36:49.724 plugin-container[2006:160425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7417, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934609756	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539934610062	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539934610073	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:36:50.130 plugin-container[2007:160495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:36:50.211 plugin-container[2007:160495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b5f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934610386	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934615572	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934620834	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934625875	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=ccd40ff411f9a95cbed49e58f0d7c1ec
+1539934625979	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=ccd40ff411f9a95cbed49e58f0d7c1ec
+1539934625980	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=ccd40ff411f9a95cbed49e58f0d7c1ec
+1539934626115	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=ccd40ff411f9a95cbed49e58f0d7c1ec
+1539934626150	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=ccd40ff411f9a95cbed49e58f0d7c1ec
+1539934629536	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539934629539	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934629540	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934631211	geckodriver	INFO	geckodriver 0.21.0
+1539934631216	geckodriver	INFO	Listening on 127.0.0.1:59748
+1539934632234	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.7aF54WCvY0xS"
+2018-10-19 15:37:13.336 plugin-container[2010:161218] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:37:13.415 plugin-container[2010:161218] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8757, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:37:13.533 plugin-container[2011:161254] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:37:13.612 plugin-container[2011:161254] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f53, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934633786	Marionette	INFO	Listening on port 59759
+1539934633878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539934633914	Marionette	DEBUG	[4294967297] Frame script loaded
+1539934633916	Marionette	DEBUG	[4294967297] Frame script registered
+1539934634291	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539934634371	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539934634662	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539934634678	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:37:14.738 plugin-container[2012:161369] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x873f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:37:14.818 plugin-container[2012:161369] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1947, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934635003	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934640749	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934646017	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934651056	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=4cbec836640c960dea94148d687df24b
+1539934651161	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=4cbec836640c960dea94148d687df24b
+1539934651164	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=4cbec836640c960dea94148d687df24b
+1539934651279	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=4cbec836640c960dea94148d687df24b
+1539934651437	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=4cbec836640c960dea94148d687df24b
+1539934653689	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539934653693	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934653694	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934716580	geckodriver	INFO	geckodriver 0.21.0
+1539934716585	geckodriver	INFO	Listening on 127.0.0.1:60128
+1539934717596	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.N1n1ljl9FPZ7"
+2018-10-19 15:38:38.738 plugin-container[2024:162480] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:38:38.839 plugin-container[2024:162480] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7823, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:38:38.993 plugin-container[2025:162516] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:38:39.077 plugin-container[2025:162516] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7423, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934719308	Marionette	INFO	Listening on port 60139
+1539934719355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539934719393	Marionette	DEBUG	[4294967297] Frame script loaded
+1539934719399	Marionette	DEBUG	[4294967297] Frame script registered
+1539934719742	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539934719832	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539934720113	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539934720129	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:38:40.277 plugin-container[2026:162653] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8507, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:38:40.358 plugin-container[2026:162653] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8523, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934720498	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+1539934721670	Marionette	INFO	Stopped listening on port 59617
+1539934723758	Marionette	INFO	Stopped listening on port 59759
+1539934725724	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934731016	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934736053	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=5931b6d695a7e1c808219ea89960a8fe
+1539934736167	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=5931b6d695a7e1c808219ea89960a8fe
+1539934736168	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=5931b6d695a7e1c808219ea89960a8fe
+1539934736302	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=5931b6d695a7e1c808219ea89960a8fe
+1539934736436	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=5931b6d695a7e1c808219ea89960a8fe
+1539934741510	geckodriver	INFO	geckodriver 0.21.0
+1539934741516	geckodriver	INFO	Listening on 127.0.0.1:60269
+1539934742530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.xxJfpdGzkb8B"
+1539934743418	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539934743421	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934743423	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+2018-10-19 15:39:03.612 plugin-container[2029:163187] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e07, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:39:03.696 plugin-container[2029:163187] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e67, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:39:03.804 plugin-container[2030:163221] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x793f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:39:03.882 plugin-container[2030:163221] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x791f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934744060	Marionette	INFO	Listening on port 60280
+1539934744073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539934744108	Marionette	DEBUG	[4294967297] Frame script loaded
+1539934744109	Marionette	DEBUG	[4294967297] Frame script registered
+1539934744507	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539934744567	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539934744817	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539934744830	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:39:04.951 plugin-container[2031:163344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7243, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:39:05.031 plugin-container[2031:163344] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x260b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539934745218	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934750342	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934755609	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539934760672	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=7f0f92df0e685779061d1c126b8a942b
+1539934760779	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=7f0f92df0e685779061d1c126b8a942b
+1539934760780	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=7f0f92df0e685779061d1c126b8a942b
+1539934760881	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=7f0f92df0e685779061d1c126b8a942b
+1539934760936	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=7f0f92df0e685779061d1c126b8a942b
+1539934882225	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539934882232	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539934882233	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935108234	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539935108239	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935108239	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539935108240	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935108240	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539935108241	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539935133115	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539935133122	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935133122	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539935133123	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935133123	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539935133124	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539935677442	geckodriver	INFO	geckodriver 0.21.0
+1539935677449	geckodriver	INFO	Listening on 127.0.0.1:64045
+1539935678462	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.RsCsmq4kyyHX"
+2018-10-19 15:54:39.727 plugin-container[2127:174215] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:54:39.899 plugin-container[2127:174215] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e5f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:54:39.965 plugin-container[2128:174244] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7743, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:54:40.044 plugin-container[2128:174244] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7713, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935680238	Marionette	INFO	Listening on port 64056
+1539935680314	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539935680348	Marionette	DEBUG	[4294967297] Frame script loaded
+1539935680354	Marionette	DEBUG	[4294967297] Frame script registered
+1539935680704	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539935680765	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539935681066	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539935681079	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:54:41.150 plugin-container[2129:174360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x773f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:54:41.232 plugin-container[2129:174360] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x775f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935681403	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935687168	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935692435	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935697472	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=0b70ef3236b3c7c973c498650c1f3075
+1539935697579	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=0b70ef3236b3c7c973c498650c1f3075
+1539935697580	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=0b70ef3236b3c7c973c498650c1f3075
+1539935697688	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=0b70ef3236b3c7c973c498650c1f3075
+1539935697744	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=0b70ef3236b3c7c973c498650c1f3075
+1539935700138	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539935700141	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935700143	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935818195	geckodriver	INFO	geckodriver 0.21.0
+1539935818203	geckodriver	INFO	Listening on 127.0.0.1:64651
+1539935819212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.yya4sO7atiW2"
+2018-10-19 15:57:00.462 plugin-container[2137:177186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:00.597 plugin-container[2137:177186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x711f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:00.680 plugin-container[2138:177219] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:00.759 plugin-container[2138:177219] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x80d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935820946	Marionette	INFO	Listening on port 64662
+1539935820956	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539935820991	Marionette	DEBUG	[4294967297] Frame script loaded
+1539935820997	Marionette	DEBUG	[4294967297] Frame script registered
+1539935821381	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539935821454	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539935821725	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539935821742	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:57:01.869 plugin-container[2139:177363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:01.950 plugin-container[2139:177363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x85a3, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935822119	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935827870	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935833143	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935838178	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935838280	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935838282	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935838423	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935838553	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935840864	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539935840868	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935840870	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539935843645	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=tool/log&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935843760	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=tool/log&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935843760	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=tool/log&token=106ab953efbb09c7dbbc685da27f4d7e
+1539935843874	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=106ab953efbb09c7dbbc685da27f4d7e&page=2
+1539935843909	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=106ab953efbb09c7dbbc685da27f4d7e&page=2
+1539935866400	geckodriver	INFO	geckodriver 0.21.0
+1539935866406	geckodriver	INFO	Listening on 127.0.0.1:64887
+1539935867422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.zSOLibH71UEn"
+2018-10-19 15:57:48.551 plugin-container[2147:178247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:48.658 plugin-container[2147:178247] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x80d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:48.792 plugin-container[2148:178284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7807, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:48.874 plugin-container[2148:178284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7823, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935869203	Marionette	INFO	Listening on port 64898
+1539935869274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539935869309	Marionette	DEBUG	[4294967297] Frame script loaded
+1539935869310	Marionette	DEBUG	[4294967297] Frame script registered
+2018-10-19 15:57:49.337 plugin-container[2149:178397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x823f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:57:49.435 plugin-container[2149:178397] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x82d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935869686	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539935869776	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-19 15:57:49.972 plugin-container[2150:178439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935870038	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539935870049	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:57:50.068 plugin-container[2150:178439] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x76d7, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935870372	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935874900	Marionette	INFO	Stopped listening on port 60139
+1539935877521	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2029, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 2126, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1539935880264	Marionette	INFO	Stopped listening on port 64056
+1539935882811	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935887846	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935887956	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935887957	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935888063	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935888116	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935893207	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=tool/log&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935893307	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=tool/log&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935893308	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=tool/log&token=3bdd7e0e889934bbbc461e8df1f7dd55
+1539935893421	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=3bdd7e0e889934bbbc461e8df1f7dd55&page=2
+1539935893455	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=3bdd7e0e889934bbbc461e8df1f7dd55&page=2
+1539935898523	geckodriver	INFO	geckodriver 0.21.0
+1539935898529	geckodriver	INFO	Listening on 127.0.0.1:65051
+1539935899545	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.HR7qEHsfJVFd"
+2018-10-19 15:58:20.638 plugin-container[2153:179661] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:58:20.717 plugin-container[2153:179661] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a1b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:58:20.821 plugin-container[2154:179694] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 15:58:20.898 plugin-container[2154:179694] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x881b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935901100	Marionette	INFO	Listening on port 65062
+1539935901196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539935901228	Marionette	DEBUG	[4294967297] Frame script loaded
+1539935901232	Marionette	DEBUG	[4294967297] Frame script registered
+1539935901583	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539935901689	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+2018-10-19 15:58:21.889 plugin-container[2155:179839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935901948	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539935901960	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 15:58:21.975 plugin-container[2155:179839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x6d1f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539935902279	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935908027	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935913290	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539935918336	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=e19b630a0d8a9aad3e937d189a72e714
+1539935918440	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=e19b630a0d8a9aad3e937d189a72e714
+1539935918441	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=e19b630a0d8a9aad3e937d189a72e714
+1539935918543	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=e19b630a0d8a9aad3e937d189a72e714
+1539935918707	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=e19b630a0d8a9aad3e937d189a72e714
+1539936026238	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539936026239	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539936026241	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936026243	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936026243	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936026244	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936209925	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539936209930	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936209930	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539936209931	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936209931	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539936209932	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539936258060	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539936258067	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936258067	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539936258068	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936258068	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539936258069	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539936290139	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539936290145	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936290146	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539936290146	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539936290146	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539936290147	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539944985410	Marionette	INFO	Stopped listening on port 64662
+1539944986993	Marionette	INFO	Stopped listening on port 64898
+1539944988092	Marionette	INFO	Stopped listening on port 65062
+1539946320333	geckodriver	INFO	geckodriver 0.21.0
+1539946320340	geckodriver	INFO	Listening on 127.0.0.1:60325
+1539946321354	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.U7wksrdO9wNR"
+2018-10-19 18:52:02.561 plugin-container[2285:200314] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:02.708 plugin-container[2285:200314] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x811f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:02.772 plugin-container[2286:200374] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:02.855 plugin-container[2286:200374] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c13, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539946323039	Marionette	INFO	Listening on port 60336
+1539946323121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539946323156	Marionette	DEBUG	[4294967297] Frame script loaded
+1539946323157	Marionette	DEBUG	[4294967297] Frame script registered
+1539946323484	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539946323614	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539946323881	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539946323892	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 18:52:03.938 plugin-container[2287:200596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7303, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:04.022 plugin-container[2287:200596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x2747, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539946324209	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539946329979	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539946335243	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539946340283	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=85777131380112825d7b6f3f0da0c956
+1539946340388	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=85777131380112825d7b6f3f0da0c956
+1539946340391	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=85777131380112825d7b6f3f0da0c956
+1539946340494	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=85777131380112825d7b6f3f0da0c956
+1539946340547	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=85777131380112825d7b6f3f0da0c956
+1539946342954	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539946342957	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946342958	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946369762	geckodriver	INFO	geckodriver 0.21.0
+1539946369766	geckodriver	INFO	Listening on 127.0.0.1:60563
+1539946370780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/bp/bfkbm7ps0ds3mcmr2l9hwwhw0000gn/T/rust_mozprofile.AtT9VQ1K6DHQ"
+2018-10-19 18:52:51.903 plugin-container[2295:201475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:51.982 plugin-container[2295:201475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x761b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:52.099 plugin-container[2296:201512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x813f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:52.176 plugin-container[2296:201512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x811f, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539946372361	Marionette	INFO	Listening on port 60574
+1539946372445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539946372479	Marionette	DEBUG	[4294967297] Frame script loaded
+1539946372480	Marionette	DEBUG	[4294967297] Frame script registered
+1539946372816	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539946372923	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539946373186	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/
+1539946373199	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/
+2018-10-19 18:52:53.221 plugin-container[2297:201641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8443, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-10-19 18:52:53.315 plugin-container[2297:201641] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x1c0b, name = 'com.apple.coredrag'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1539946373514	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539946378633	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539946383904	Marionette	DEBUG	[4294967297] Canceled page load listener because no navigation has been detected
+1539946388959	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946389065	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=common/dashboard&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946389066	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=common/dashboard&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946389166	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946389222	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946392276	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539946392280	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946392281	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946394300	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946394412	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946394413	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f
+1539946394539	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946394593	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946399649	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946399753	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946399754	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946399841	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=2
+1539946399910	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=2
+1539946404967	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=2
+1539946405070	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=2
+1539946405071	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=2
+1539946405162	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946405218	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946410260	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946410365	Marionette	DEBUG	[4294967297] Received DOM event pagehide for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946410366	Marionette	DEBUG	[4294967297] Received DOM event unload for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=3
+1539946410445	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=1
+1539946410483	Marionette	DEBUG	[4294967297] Received DOM event pageshow for http://192.168.100.4:10028/index.php?route=tool/log&token=40f3d80532eafc74f8c2ffd25e748a1f&page=1
+1539946712028	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539946712034	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946712035	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539946712037	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946712038	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539946712038	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539946761417	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1539946761423	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946761423	addons.xpi	ERROR	Failed to download system add-on gmp-gmpopenh264: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539946761424	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1539946761424	addons.xpi	ERROR	Failed to download system add-on gmp-widevinecdm: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1539946761424	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+1539949334517	Marionette	INFO	Stopped listening on port 60574
+1539949334716	Marionette	INFO	Stopped listening on port 60336
